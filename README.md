@@ -1,5 +1,3 @@
-# ¡Hola! Soy Angel 👋
-
 ## Sobre mí
 Actualmente me encuentro cursando el **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** en el **SENA**. Mi camino en la tecnología se define por una mezcla entre la formación técnica rigurosa y un fuerte espíritu **autodidacta**. 
 
